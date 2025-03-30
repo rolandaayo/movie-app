@@ -1,9 +1,9 @@
 <div align="center">
-  <h2 align="center">Ridex - Car Rental Website</h2>
+  <h2 align="center">Movie App</h2>
 
- Ridex is a modern and visually appealing web application designed for car renting services. <br/> Built using React.js &amp; Tailwind CSS. <br/>
+ Movie App is a modern and visually appealing web application designed for browsing movies. <br/> Built using Node.js, React.js & Tailwind CSS. <br/>
 
-  <a href="https://car-rental-w3b.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="#"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -19,20 +19,20 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-### Installing Ridex
+### Installing Movie App
 
-To install **Ridex**, run this command on your git bash:
+To install **Movie App**, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/rolandaayo/ridex.git
+sudo git clone https://github.com/rolandaayo/movie-app.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/rolandaayo/ridex.git
+git clone https://github.com/rolandaayo/movie-app.git
 ```
 
 ## 💬 Contact
